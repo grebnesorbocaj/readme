@@ -9,9 +9,13 @@ func main() {
 
 ## My thought Process
 
-## Other Solutions
+## My score
 
-### Comments on those
+Speed: faster than __% of solutions
+
+Memory: lower memory usage __.__% of solutions
+
+## Other Solutions and my thoughts on them
 `
 
 	readMeTemplate.SaveToFile()
